@@ -44,7 +44,7 @@
  
      // Configure address
      address.sin_family = AF_INET;
-     address.sin_addr.s_addr = inet_addr("172.31.170.25");  // system Ip addr
+     address.sin_addr.s_addr = inet_addr("172.31.170.25");  // Ip address
      address.sin_port = htons(PORT);
  
      // Bind socket
