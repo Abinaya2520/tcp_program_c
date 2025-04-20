@@ -30,5 +30,3 @@ Run Instructions:
 1. First, run the server
 
 2. Then, in a separate terminal, run the client
-
-
